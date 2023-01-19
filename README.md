@@ -40,9 +40,9 @@ There are all english alphebets, conunting digits and some special characters
 
 	
 
-Sending cw in digital method has following benifits:
+2-in-1 CW Keyer has following benifits
+====/======/=====/=====/=====/====/===
 
-///////////////////////////////////////////////////
 
 1. Sender can write the message to send , even before stating communication
 2. Sender can Write preset 8 messages , and change them at any time
