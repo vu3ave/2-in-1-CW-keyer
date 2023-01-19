@@ -59,4 +59,22 @@ Sending cw in digital method has following benifits:
 10. Can Store the side tone Frequency and WPM of last session
 
 
-//////////////////////////////////////////////////
+COMPONENTS USED
+
+1. WIFI Module : ESP-12
+
+2. 6v Relay
+
+3. Transistor : BC148
+
+4. Resistors : 3.3k, 2.2k, 1k
+
+5. Capactors : 10uF, 0.1uF
+
+6. Diodes: 1N4007 , 3.3V Zenor 1W
+
+7. Connectors, wires, etc
+
+
+
+
