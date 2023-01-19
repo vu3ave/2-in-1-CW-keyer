@@ -38,10 +38,7 @@ There are all english alphebets, conunting digits and some special characters
 
 
 
-
-
-
-
+	
 
 Sending cw in digital method has following benifits:
 
@@ -59,7 +56,10 @@ Sending cw in digital method has following benifits:
 10. Can Store the side tone Frequency and WPM of last session
 
 
-COMPONENTS USED
+
+
+ COMPONENTS USED
+	===============
 
 1. WIFI Module : ESP-12
 
@@ -77,4 +77,8 @@ COMPONENTS USED
 
 
 
+Mode of operation
+=================
+Mode 1:  PADDLE KEYER MODE ( DEFAULT ON START UP ) - POTENTIMETER TURN TO SPEED UP OR DOWN
+Mode 2:  KEYBOARD KEYER MODE ( CHOSE BY PRESSING DIT AND DAH PADDLE TOGETHER + POTENTOMETER AT RIGHT EXTREME POSITION )
 
