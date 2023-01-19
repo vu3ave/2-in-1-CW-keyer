@@ -1,16 +1,17 @@
 # 2-in-1-CW-keyer
 
-From decades cw ( telegraphy message on radio) have become popular
-mode of communication. It is more relaiable as it can be done
-even at worse climatic conditions. cw mode is done in
-digital method, which is easy and accurate to transmit with out errors for a prologed time.
+For decades cw (telegraphy message on the radio) have become popular
+Mode of communication. It is more reliable as it can be done
+Even at worse climatic conditions. cw mode is done in
+Digital method, which is easy and accurate to transmit without errors for a prolonged time.
 
 
-Sending CW ( radio telegraphy )
+Sending CW (radio telegraphy)
+
 ///////////////////////////////
 
-Samuel Morse invented telegraphy in....., ever since
-this metod is used for communication. This method is
+Samuel Morse invented telegraphy in 1844, ever since
+This method is used for communication. This method is
 so basic that it is easy to use in ananlog and digital way.
 
 Morse code, is used in Land communcation using wires
@@ -43,6 +44,7 @@ There are all english alphebets, conunting digits and some special characters
 
 
 Sending cw in digital method has following benifits:
+
 ///////////////////////////////////////////////////
 
 1. Sender can write the message to send , even before stating communication
@@ -56,8 +58,5 @@ Sending cw in digital method has following benifits:
 9. Start the keyer in Mode1 (Paddle keyer Mode)
 10. Can Store the side tone Frequency and WPM of last session
 
+
 //////////////////////////////////////////////////
-
-
-
-
