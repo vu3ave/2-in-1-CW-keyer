@@ -7,8 +7,8 @@ Digital method, which is easy and accurate to transmit without errors for a prol
 
 
 Sending CW (radio telegraphy)
+-----------------------------
 
-///////////////////////////////
 
 Samuel Morse invented telegraphy in 1844, ever since
 This method is used for communication. This method is
