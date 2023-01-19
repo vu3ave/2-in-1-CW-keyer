@@ -58,8 +58,9 @@ Sending cw in digital method has following benifits:
 
 
 
- COMPONENTS USED
-	===============
+Components used
+===============
+
 
 1. WIFI Module : ESP-12
 
