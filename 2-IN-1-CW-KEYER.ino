@@ -1,5 +1,13 @@
-// Ver. 1.22 AVE RnD CW Keyer (14 / 1 /2023 ) 11AM
+// 2-IN-1 CW KEYER by Anish VR (14-1-2023)
+
 // THIS IS : 2-IN-1 CW KEYER PROGRAME CODE //////////
+// upload this code to ESP-12 ///
+//
+//
+//
+// FIRST UPLOAD - eeprom_clear.ino  /// run code // this will clear eeprom of ESP-12 ,from any previous data
+
+
 
 
 
