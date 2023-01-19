@@ -41,7 +41,7 @@ There are all english alphebets, conunting digits and some special characters
 	
 
 2-in-1 CW Keyer has following benifits
-====/======/=====/=====/=====/====/===
+======================================
 
 
 1. Sender can write the message to send , even before stating communication
