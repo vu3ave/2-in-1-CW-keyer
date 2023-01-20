@@ -6,8 +6,8 @@ Even at worse climatic conditions. cw mode is done in
 Digital method, which is easy and accurate to transmit without errors for a prolonged time.
 
 
-Sending CW (radio telegraphy)
------------------------------
+-Sending CW (radio telegraphy)
+
 
 
 Samuel Morse invented telegraphy in 1844, ever since
