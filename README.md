@@ -48,7 +48,7 @@ There are all english alphebets, conunting digits and some special characters
 
 2-in-1 CW Keyer has following benifits
 ======================================
-
+```sh
 
 1. Sender can write the message to send , even before stating communication
 2. Sender can Write preset 8 messages , and change them at any time
@@ -60,7 +60,7 @@ There are all english alphebets, conunting digits and some special characters
 8. Can change between Mode1 and Mode2 ( Paddle keyer and CW Keyboard )
 9. Start the keyer in Mode1 (Paddle keyer Mode)
 10. Can Store the side tone Frequency and WPM of last session
-
+```
 
 
 
