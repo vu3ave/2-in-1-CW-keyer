@@ -10,7 +10,7 @@ Digital method, which is easy and accurate to transmit without errors for a prol
 
 
 
-Sending CW (radio telegraphy)
+## Sending CW (radio telegraphy)
 
 
 
@@ -31,9 +31,10 @@ Letters and words and sentance of messages
 
 
 for exampe :
+...sh
  DIT -  space - DAH : means letter 'a'
  DIT -  space - DAH - space - DAH : means letter 'w'
-
+...
 
 Morse code table contains all combinations
 used. 
