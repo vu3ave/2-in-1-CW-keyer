@@ -6,7 +6,12 @@ Even at worse climatic conditions. cw mode is done in
 Digital method, which is easy and accurate to transmit without errors for a prolonged time.
 
 
--Sending CW (radio telegraphy)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+
+
+
+Sending CW (radio telegraphy)
+
 
 
 
