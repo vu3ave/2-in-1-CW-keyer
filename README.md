@@ -31,10 +31,10 @@ Letters and words and sentance of messages
 
 
 for exampe :
-...sh
+```sh
  DIT -  space - DAH : means letter 'a'
  DIT -  space - DAH - space - DAH : means letter 'w'
-...
+```
 
 Morse code table contains all combinations
 used. 
